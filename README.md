@@ -1,14 +1,15 @@
 <p>
-  <a href="https://github.com/thepylot"><img src="https://img.shields.io/github/followers/thepylot.svg?label=GitHub&style=social" alt="GitHub"></a>
+  <a href="https://github.com/igwesi"><img src="https://img.shields.io/github/followers/theRaven.svg?label=GitHub&style=social" alt="GitHub"></a>
 </p>
+
 <table cellpadding="0">
   <tr style="border-top: none; padding: 0;">
     <td valign="top" style="border: none; padding: 0">
-      <img src="https://github-readme-stats.vercel.app/api?username=thepylot&show_icons=true&count_private=true&theme=algolia">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepylot&layout=compact&theme=algolia&card_width=445">
+      <img src="https://github-readme-stats.vercel.app/api?username=theRaven&show_icons=true&count_private=true&theme=algolia">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theRaven&layout=compact&theme=algolia&card_width=445">
     </td>
     <td valign="top" style="border: none; padding: 0">
-      <a href="https://app.daily.dev/thepylot"><img src="https://api.daily.dev/devcards/90ef9cacaccf4afe8bf36efd1c58eed5.png?r=lgi" width="400" alt="thepylot's Dev Card"/></a>
+      <a href="https://app.daily.dev/theRaven"><img src="https://api.daily.dev/devcards/90ef9cacaccf4afe8bf36efd1c58eed5.png?r=lgi" width="400" alt="theRaven's Dev Card"/></a>
     </td>
   </tr>
 </table>
