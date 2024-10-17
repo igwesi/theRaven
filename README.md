@@ -5,11 +5,11 @@
 <table cellpadding="0">
   <tr style="border-top: none; padding: 0;">
     <td valign="top" style="border: none; padding: 0">
-      <img src="https://github-readme-stats.vercel.app/api?username=theRaven&show_icons=true&count_private=true&theme=algolia">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theRaven&layout=compact&theme=algolia&card_width=445">
+      <img src="https://github-readme-stats.vercel.app/api?username=igwesi&show_icons=true&count_private=true&theme=algolia">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igwesi&layout=compact&theme=algolia&card_width=445">
     </td>
     <td valign="top" style="border: none; padding: 0">
-      <a href="https://app.daily.dev/theRaven"><img src="https://api.daily.dev/devcards/90ef9cacaccf4afe8bf36efd1c58eed5.png?r=lgi" width="400" alt="theRaven's Dev Card"/></a>
+      <a href="https://app.daily.dev/theraven"><img src="https://api.daily.dev/devcards/v2/mTT3cCK4w3j2ONZcuQmsb.png?type=default&r=c3m" width="356" alt="The Raven's Dev Card"/></a>
     </td>
   </tr>
 </table>
